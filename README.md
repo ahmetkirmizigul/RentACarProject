@@ -88,7 +88,7 @@ MsSql, Asp.Net Core for Restful api,EntityFramework Core,Autofac,FluentValidatio
 
 * * *
 
-![image6](https://raw.githubusercontent.com/atakanreyhanioglu/ReCapFrontend/master/gifs/rentdate.gif)
+
 
 
 
