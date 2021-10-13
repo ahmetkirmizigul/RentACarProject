@@ -80,13 +80,7 @@ MsSql, Asp.Net Core for Restful api,EntityFramework Core,Autofac,FluentValidatio
 
 * * *
 
-![image4](https://raw.githubusercontent.com/atakanreyhanioglu/ReCapFrontend/master/gifs/login.gif)
 
-* * *
-
-![image5](https://raw.githubusercontent.com/atakanreyhanioglu/ReCapFrontend/master/gifs/payment.gif)
-
-* * *
 
 
 
